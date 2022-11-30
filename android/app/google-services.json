@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846383535118",
+    "project_id": "docjo-f8d81",
+    "storage_bucket": "docjo-f8d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846383535118:android:f63a10c3119b297e87d85f",
+        "android_client_info": {
+          "package_name": "com.unknowncoder.docjo.docjo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846383535118-6hif717aqnt2khv754h24cndnu6jlkcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjaF6dV5_-6kFq0RhweTDe5pnls_rGcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846383535118-6hif717aqnt2khv754h24cndnu6jlkcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
